@@ -2,5 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://carsojo.github.io/Main/index.html</loc>
+		<lastmod>2022-12-12</lastmod>
+	</url>
+	<url>
+		<loc>https://carsojo.github.io/Main/contact/index.php</loc>
 	</url>
 </urlset>
